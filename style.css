@@ -73,6 +73,9 @@ hr{
         font-weight: 500;
     }
 }
+
+
+
 .weather-data{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
